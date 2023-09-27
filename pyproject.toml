@@ -1,5 +1,5 @@
 [project]
-name = "markdown_url_validator_AKSHAT_JAIMINI"
+name = "markdown_url_validator"
 version = "1.0.0"
 authors = [
   { name="Akshat Jaimini", email="destrex271@gmail.com" },
